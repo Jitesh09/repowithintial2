@@ -1,0 +1,67 @@
+[33mcommit 0e7384795c4122e3781142c2622dae03424c6755[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fc52619 a4a6d24
+Author: name <you@example.com>
+Date:   Sat Nov 26 15:00:29 2022 -0800
+
+    merge all changes
+    Merge branch 'main' of https://github.com/Jitesh09/repowithintial2
+
+[33mcommit fc52619778360642bf1fac0f6fc5654e119578fe[m
+Author: name <you@example.com>
+Date:   Sat Nov 26 14:46:32 2022 -0800
+
+    editing file9
+
+[33mcommit a4a6d247ae9ab83cf4bfcc8b2a20a47f958ed09c[m
+Author: Jitesh09 <119019857+Jitesh09@users.noreply.github.com>
+Date:   Sat Nov 26 14:44:15 2022 -0800
+
+    Create file6
+
+[33mcommit d17056ec97a33380b72dbaef897b74d0096ce56d[m
+Author: Jitesh09 <119019857+Jitesh09@users.noreply.github.com>
+Date:   Sat Nov 26 14:36:56 2022 -0800
+
+    Update file7
+
+[33mcommit 60c8dd4a1f49d949d4855b9477f10a064896826c[m
+Merge: 9bda8ae 639010d
+Author: Jitesh09 <119019857+Jitesh09@users.noreply.github.com>
+Date:   Sat Nov 26 14:34:49 2022 -0800
+
+    Merge pull request #2 from parneetdevops/patch-2
+    
+    Create file8
+
+[33mcommit 639010d8205b6c0e92571d8d68a5035549ee69f7[m
+Author: parneetdevops <118090680+parneetdevops@users.noreply.github.com>
+Date:   Sat Nov 26 14:32:06 2022 -0800
+
+    Create file8
+
+[33mcommit 9bda8aea16970cc2fd85f54bbb32ec232264aa39[m
+Merge: 0232afb 0798d5f
+Author: Jitesh09 <119019857+Jitesh09@users.noreply.github.com>
+Date:   Sat Nov 26 14:28:33 2022 -0800
+
+    Merge pull request #1 from parneetdevops/patch-1
+    
+    Create file9
+
+[33mcommit 0798d5f76398fd4e6fd2d68d299efec69b032b67[m
+Author: parneetdevops <118090680+parneetdevops@users.noreply.github.com>
+Date:   Sat Nov 26 14:27:06 2022 -0800
+
+    Create file9
+
+[33mcommit 0232afbe391edb8254bef78e5735af7589c362bc[m
+Author: name <you@example.com>
+Date:   Sat Nov 26 14:12:53 2022 -0800
+
+    file7 commit
+
+[33mcommit a3aedf6103d4b9d9bd76c1ab5347d38990804a23[m
+Author: Jitesh09 <119019857+Jitesh09@users.noreply.github.com>
+Date:   Sat Nov 26 14:03:58 2022 -0800
+
+    Initial commit
